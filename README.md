@@ -1,3 +1,3 @@
-# Hero_Electronics_Product_Performance_and_Optimization_Analysis
+## Hero_Electronics_Product_Performance_and_Optimization_Analysis
 
 ## Company Background
