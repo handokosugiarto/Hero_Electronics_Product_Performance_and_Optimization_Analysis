@@ -1,8 +1,8 @@
 # Hero_Electronics_Product_Performance_and_Optimization_Analysis 
 
-[ Hero_Electronics_Product_Performance_and_Optimization_Analysis ](https://github.com/handokosugiarto/Private/blob/1b14b6b8bebc76e13d87233dc8b3b7c528495441/Global%20Retailers/Hero%20Electronics.png)
-
-
+<p align="center">
+  <img width="50%" src="https://github.com/handokosugiarto/Private/blob/1b14b6b8bebc76e13d87233dc8b3b7c528495441/Global%20Retailers/Hero%20Electronics.png">
+</p>
 
 ## Company Background
 
