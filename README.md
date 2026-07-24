@@ -10,4 +10,4 @@ This Project analyzes sales performance from 2016 to 2021 to identify high perfo
 
 ## North Star Metric
 
-Total Profit is the key metric in this project to measure how profitable each product category contributes to the overall business.  
+Total Profit is the key metric in this project to measure how profitable each product category contributes to the overall   business.  
