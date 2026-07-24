@@ -14,4 +14,11 @@ As one of the data team, I analyze sales performance from 2016 to 2021 to identi
 ## North Star Metric
 
 Total Profit is the key metric in this project to answer how profitable our product portfolios are. By measuring this key metrics, I will be able to help the product team to create strategic decision making whether to expand, improve,invest, or review their product portfolios. As the result of their decision making, we would expect company's profit to go up.
+
 Other metrics are also needed to support the success of our project such as total sales, total quantity, average selling price, and profit margin. By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
+
+## Data Structure Overview
+
+The datasets are located in our company main server are using data modelling normalize schema which prevents any duplication (redudancy) that will disrupt the accuracy of our data. The weakness of this schema is we have to integrate many tables just to answer a simple question which is taking some time. So in order to solve this issue, I transform the data model to denormalized schema which is star schema data model from our data warehouse.
+
+<img src= "https://github.com/handokosugiarto/Private/blob/1b14b6b8bebc76e13d87233dc8b3b7c528495441/Global%20Retailers/Data%20Structure.png" width="95%">
