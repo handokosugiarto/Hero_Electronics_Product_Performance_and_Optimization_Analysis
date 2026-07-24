@@ -1,5 +1,9 @@
 # Hero_Electronics_Product_Performance_and_Optimization_Analysis 
 
+[ Hero_Electronics_Product_Performance_and_Optimization_Analysis ](https://github.com/handokosugiarto/Private/blob/1b14b6b8bebc76e13d87233dc8b3b7c528495441/Global%20Retailers/Hero%20Electronics.png)
+
+
+
 ## Company Background
 
 Hero Electronics is a global consumers electronics retail chain stores that operates across North America, Europe, and Australia with 67 stores serving United States, Canada, United Kingdom, France, Netherlands, Germany, Italy, and Australia. Since the establishment in 2016, the company has offered a diverse portfolio of consumer electronics including audio, camera and camcorder, cellular phone, computers, games, toys, home appliances, TV and video, music, movies, and audio books. 
