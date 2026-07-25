@@ -17,7 +17,7 @@ Total Profit is the key metric in this project to answer how profitable our prod
 
 Other metrics are also needed to support the success of our project such as total sales, total quantity, average selling price, and profit margin. By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
 
-Interactive Tableau's dashboard can be explored here
+Interactive Tableau's dashboard can be explored [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/Globalretailer/ProductOptimization)
 
 SQL queries analysis here
 
@@ -29,3 +29,5 @@ The dataset is organized as a star schema, with one fact table and multiple dime
 <img src= "https://github.com/handokosugiarto/Private/blob/4c636d5692f644f04073e938f4f334e42e3f3588/Global%20Retailers/Data%20Structure.png" width="95%">
 
 ## Executive Summary
+
+![Executive Summary](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/19793ce4ed18594e5d049a7b227f97f6e7f7ad7d/Product%20Optimization.png)
