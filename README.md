@@ -24,9 +24,18 @@ SQL queries analysis here
 
 ## Data Structure Overview
 
-The dataset is organized as a star schema, with one fact table and multiple dimension tables. Compared with a single flat table, it reduces redudancy while remaining optimized for analysis.
+The dataset is organized as a star schema, with one fact table and multiple dimension tables. Compared with a single flat table, it reduces redudancy while remaining optimized for analysis. The dataset consists of four tables: three dimensions that are products, stores, customers, and one fact table that is sales, with a total row count of 62,885 records.
 
 <img src= "https://github.com/handokosugiarto/Private/blob/4c636d5692f644f04073e938f4f334e42e3f3588/Global%20Retailers/Data%20Structure.png" width="95%">
 
 ## Executive Summary
+
+### Overview of Findings
+
+Hero Electronics has done a very amazing performance over the year from 2016 to 2021. The business had been showing a positive growth from 2016 (US$ 6,947K) to 2019 (US$18,265K) with CAGR of 38% until the Covid19 pandemic happened in 2020. The revenue declined significantly to US$ 9295K in 2020 which was about 49% dropped from 2019. 
+
+The main revenue driver is desktop subcategory with its revenue ranging from US$ 725K to US$ 1,777K with 20% contribution from the total revenue in 2019. Desktop subcategory drive the profitability also but the profit ratio is being driven by projector and screen subcategory with total margin 63% while desktop is about 57%.
+
+
+
 
