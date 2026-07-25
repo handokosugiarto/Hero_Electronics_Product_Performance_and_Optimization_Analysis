@@ -36,6 +36,9 @@ Hero Electronics has done a very amazing performance over the year from 2016 to 
 
 The main revenue driver is desktop subcategory with its revenue ranging from US$ 725K to US$ 1,777K with 20% contribution from the total revenue in 2019. Desktop subcategory drive the profitability also but the profit ratio is being driven by projector and screen subcategory with total margin 63% while desktop is about 57%.
 
+Products that have growth potential are products which are considered as high margin & high sales such as projector & screen, digital camera, televisions, camcorders, movie DVD, and Refrigerator. 
+![Overview of Findings](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/9572234eb0a186fa9f12e022ee98fa8c7965c0ac/Products%20Optimization.png)
+
 
 
 
