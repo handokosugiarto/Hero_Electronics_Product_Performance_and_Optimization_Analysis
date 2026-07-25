@@ -30,4 +30,3 @@ The dataset is organized as a star schema, with one fact table and multiple dime
 
 ## Executive Summary
 
-![Executive Summary](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/19793ce4ed18594e5d049a7b227f97f6e7f7ad7d/Product%20Optimization.png)
