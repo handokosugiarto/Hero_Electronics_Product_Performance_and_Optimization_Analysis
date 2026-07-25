@@ -17,8 +17,15 @@ Total Profit is the key metric in this project to answer how profitable our prod
 
 Other metrics are also needed to support the success of our project such as total sales, total quantity, average selling price, and profit margin. By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
 
+Interactive Tableau's dashboard can be explored here
+
+SQL queries analysis here
+
+
 ## Data Structure Overview
 
-The datasets are located in our company main server are using data modelling normalize schema which prevents any duplication (redudancy) that will disrupt the accuracy of our data. The weakness of this schema is we have to integrate many tables just to answer a simple question which is taking some time. So in order to solve this issue, I transform the data model to denormalized schema which is star schema data model from our data warehouse.
+The dataset is organized as a star schema, with one fact table and multiple dimension tables. Compared with a single flat table, it reduces redudancy while remaining optimized for analysis.
 
-<img src= "https://github.com/handokosugiarto/Private/blob/1b14b6b8bebc76e13d87233dc8b3b7c528495441/Global%20Retailers/Data%20Structure.png" width="95%">
+<img src= "https://github.com/handokosugiarto/Private/blob/4c636d5692f644f04073e938f4f334e42e3f3588/Global%20Retailers/Data%20Structure.png" width="95%">
+
+## Executive Summary
