@@ -9,7 +9,7 @@ Hero Electronics is a global consumers electronics retail chain stores that oper
 
 Betweem 2016 - 2019, Hero Electronics experienced strong business growth with annual revenue increasing from US$ 6.95 million to US$ 18.27 million. However Covid19 pandemic significantly disrupted business operations, causing annual revenues to decline by approximately 49% from US$ 18.27 million in 2019 to US$ 9.30 million in 2020.  The management had done very well with the sales ranging from US$ 6,947K to US$ 18,265K (2016-2019) and dropped by 49% from US$ 18,265K to US$ 9,295K  after Covid19 pandemic hit in 2020. This sudden market shift created new challenges for the product team in evaluate product performance, prioritizing investment, and optimizing the product portfolio under changing customer demand.
 
-As part of the data team, I analyze sales performance from 2016 to 2021 to identify high performing, high margin, and high growth product categories. The objective is to help Product Managers optimize the product portfolio, improve profitability, and support strategic poduct investment decisions.
+As a part of the data team, I analyze sales performance from 2016 to 2021 to identify high performing, high margin, and high growth product categories. The objective is to help Product Managers optimize the product portfolio, improve profitability, and support strategic poduct investment decisions.
 
 ## North Star Metric
 
