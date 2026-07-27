@@ -42,6 +42,11 @@ The dataset is organized as a star schema, with one fact table and multiple dime
 
 ![Overview of Findings](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/bc248f4865efc703197b2690bcdf30b53513458a/Products%20Optimization.png)
 
+## Insights Deep Dive
+
+### Revenue Trends
+
+- Hero Electronics' revenue performance has shown positive growth from 2016 to 2019 with revenue ranging from US$ 6,947K to US$ 18,265K with Compound Annual Growth Rate 
 
 
 
