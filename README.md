@@ -46,7 +46,6 @@ The dataset is organized as a star schema, with one fact table and multiple dime
 
 ### Revenue Trends
 
-- Hero Electronics' revenue performance has shown positive growth from 2016 to 2019 with revenue ranging from US$ 6,947K to US$ 18,265K with Compound Annual Growth Rate 
-
+- Hero Electronics' revenue performance has shown positive growth from 2016 to 2019 with revenue ranging from US$ 6,947K to US$ 18,265K with revenue grew 163%, while demand has increased from 21.4K to 68.4K, with quantity growth rate 215%, and average selling price has declined 14% from US$ 311 to US$ 267. Profit increased 160% from US$ 4,107K to US$10,698K. These trends suggest that the revenue and profit growth are primarily volume driven growth which may be supported by price discounting or shift to lower price product mixed. Even decline in average selling price, the profit margin is remained stable at 59%.
 
 
