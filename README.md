@@ -24,7 +24,7 @@ SQL queries analysis here
 
 ## Data Structure Overview
 
-The dataset is organized as a star schema, with one fact table and multiple dimension tables. Compared with a single flat table, it reduces redundancy while remaining optimized for analysis. The dataset consists of four tables: three dimensions that are products, stores, customers, and one fact table that is sales, with a total row count of 62,885 records.
+The dataset is organized as a star schema model, with one fact table and multiple dimension tables. Compared with a single flat table, it reduces redundancy while remaining optimized for analysis. The dataset consists of four tables: three dimensions that are products, stores, customers, and one fact table that is sales, with a total row count of 62,885 records.
 
 <img src= "https://github.com/handokosugiarto/Private/blob/4c636d5692f644f04073e938f4f334e42e3f3588/Global%20Retailers/Data%20Structure.png" width="95%">
 
@@ -47,5 +47,6 @@ The dataset is organized as a star schema, with one fact table and multiple dime
 ### Revenue Trends
 
 - Hero Electronics' revenue performance has shown positive growth from 2016 to 2019 with revenue ranging from US$ 6,947K to US$ 18,265K with revenue grew 163%, while demand has increased from 21.4K to 68.4K, with quantity growth rate 215%, and average selling price has declined 14% from US$ 311 to US$ 267. Profit increased 160% from US$ 4,107K to US$10,698K. These trends suggest that the revenue and profit growth are primarily volume driven growth which may be supported by price discounting or shift to lower price product mixed. Even decline in average selling price, the profit margin is remained stable at 59%.
+-The period of positive growth was disrupted by the Covid19 pandemic, which significantly impacted the business performance. The revenue performance declined from US$ 18,265K to US$ 9,295K which represented 49% declined from 2019 to 2020.A downward trend in revenue followed by a decrease in volume sales from 68.4K units to 34.4K units which represent 50% decline from 2019 to 2020. Average selling price remained stable at US$ 267 and total profit declined from US$ 10,698K to US$ 5,448K which represents 49% declined from 2019 to 2020. These indicators suggests that the decrease in revenue and sales volume was not resulted from low in demand, nonetheless covid19 pandemic was the main cause for this issue. These condition also resulted in a decrease in total profit but the profit margin remained stable at 59%. 
 
 
