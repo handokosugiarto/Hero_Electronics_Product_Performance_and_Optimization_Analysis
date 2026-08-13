@@ -30,6 +30,9 @@ The dataset is organized as a star schema model, with one fact table and multipl
 
 ## Executive Summary
 
+### Dashboard
+![Dashboard](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/bc248f4865efc703197b2690bcdf30b53513458a/Products%20Optimization.png)
+
 ### Overview of Findings
 
 **Business Growth:** Hero Electronics has done a very amazing performance over the year from 2016 to 2020. The business had been showing a positive growth from 2016 (US$ 6,947K) to 2019 (US$18,265K) with CAGR of 38% until the Covid19 pandemic happened in 2020. The revenue declined significantly to US$ 9295K in 2020 which was about 49% dropped from 2019. 
@@ -39,8 +42,6 @@ The dataset is organized as a star schema model, with one fact table and multipl
 **Profitability Insights:** Desktop subcategory drives the profitability with US$ 5,629K or 17% from total profit from 2016 to 2021. Although Desktop subcategory has higher total profit but the profit ratio is being driven by projector and screen subcategory with total margin 63% while desktop is about 57%.
 
 **Portfolio Opportunities:** Products that have growth potential are products which are considered as high margin & high sales such as projector & screen, digital camera, televisions, camcorders, movie DVD, and Refrigerator. These product subcategories represent the strongest product subcategories to invest or grow while low margin & low sales such as air conditioners, home theater system, lamps, car video, recording pen, camera, camcorder, and VCD/DVD. 
-
-![Overview of Findings](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/bc248f4865efc703197b2690bcdf30b53513458a/Products%20Optimization.png)
 
 ## Insights Deep Dive
 
