@@ -69,7 +69,8 @@ The dataset is organized as a star schema model, with one fact table and multipl
 
 ![Laptops](https://github.com/handokosugiarto/Private/blob/477b1fa6c6f3ed624bd8a43ad94c955372811b48/Global%20Retailers/Laptops%20Vs%20MovieDVD.png)
 
-- Televisions subcategory is the second largest contributor in driving the total revenue of Hero Electronics reached  US$ 4,309K (average revenue US$ 1,742K) from 2016-2020, representing 8% contributor to the total revenue, with its profit reached  US$ 2,632K (average profit US$ 1,021K), representing 8% contribution to the the total profit, and 61% profit margin while the average margin was 58%. Since televisions indicator is higher than average, it can be consider as high margin, high profit and high revenue which need to invest more to this subcategory.  
+- Televisions subcategory is the second largest contributor in driving the total revenue of Hero Electronics reached  US$ 4,309K (average revenue US$ 1,742K) from 2016-2020, representing 8% contributor to the total revenue, with its profit reached  US$ 2,632K (average profit US$ 1,021K), representing 8% contribution to the the total profit, and 61% profit margin while the average margin was 58%. Since televisions indicator is higher than average, it can be consider as high margin, high profit and high revenue which need to invest more to this subcategory.
+- Monitors subcategory reached US$ 1,518K in total revenue with average revenue US$ 1,742K from 2016 to 2020, contributed 3% to the total revenue, total profit reached US$ 950K with average US$ 1,021K, and profit margin reached 63% while the average profit margin 58%. This subcategory performed very well in profit margin (higher than average), while profit and revenue considered low due to lower than average.   
 
 
 
