@@ -17,7 +17,7 @@ Between 2016 - 2019, Hero Electronics experienced strong business growth with an
 
 Other metrics are also needed to support the success of our project such as total sales, total quantity, average selling price, and profit margin. By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
 
-Interactive Tableau's dashboard can be explored [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/Globalretailer/ProductOptimization)
+
 
 SQL queries analysis here
 
@@ -32,6 +32,8 @@ The dataset is organized as a star schema model, with one fact table and multipl
 
 ### Dashboard
 ![Dashboard](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/bc248f4865efc703197b2690bcdf30b53513458a/Products%20Optimization.png)
+
+Interactive Tableau's dashboard can be explored [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/Globalretailer/ProductOptimization)
 
 ### Overview of Findings
 
@@ -70,7 +72,14 @@ The dataset is organized as a star schema model, with one fact table and multipl
 ![Laptops](https://github.com/handokosugiarto/Private/blob/477b1fa6c6f3ed624bd8a43ad94c955372811b48/Global%20Retailers/Laptops%20Vs%20MovieDVD.png)
 
 - Televisions subcategory is the second largest contributor in driving the total revenue of Hero Electronics reached  US$ 4,309K (average revenue US$ 1,742K) from 2016-2020, representing 8% contributor to the total revenue, with its profit reached  US$ 2,632K (average profit US$ 1,021K), representing 8% contribution to the the total profit, and 61% profit margin while the average margin was 58%. Since televisions indicator is higher than average, it can be consider as high margin, high profit and high revenue which need to invest more to this subcategory.
-- Monitors subcategory reached US$ 1,518K in total revenue with average revenue US$ 1,742K from 2016 to 2020, contributed 3% to the total revenue, total profit reached US$ 950K with average US$ 1,021K, and profit margin reached 63% while the average profit margin 58%. This subcategory performed very well in profit margin (higher than average), while profit and revenue considered low due to lower than average.   
+
+![Television](https://github.com/handokosugiarto/Private/blob/e54fedf2f96c76803ffae6810549f06a3b187f29/Global%20Retailers/High%20Margin%2C%20High%20Revenue.png)
+- Monitors subcategory reached US$ 1,518K in total revenue with average revenue US$ 1,742K from 2016 to 2020, contributed 3% to the total revenue, total profit reached US$ 950K with average US$ 1,021K, and profit margin reached 63% while the average profit margin 58%. This subcategory performed very well in profit margin (higher than average), while profit and revenue considered low due to lower than average. Expansion is the best strategy in order to improve revenue or profit.
+
+![Monitors](https://github.com/handokosugiarto/Private/blob/786cc141864d61a1bfe85f9c9d85af987da3dff3/Global%20Retailers/High%20Nargin%2C%20Low%20Revenue.png)
+
+-   
+
 
 
 
