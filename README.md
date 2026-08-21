@@ -66,7 +66,7 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 - Even though desktops subcategory contributes 18% to the total revenue, however their profit margin was 57% which was lower than average total profit margin 58% for period 2016 to 2020. During those period their sales contributes US$ 9,906K with average sales of US% 1,742K which was considered as High sales. The desktops subcategory was primarily driven by the volume sales of the products with price segment US$200-US$300 which contributed 38% from total desktops subcategory sales volume with profit margin 49%. Since the large portion of revenue is coming from those price segment suggests that the mix may be pulling down the overall margin down.
 - Although desktops subcategory drove Hero Electronics' total revenue, but in contrast, projectors & screens subcategory generated the highest profit margin in the company. The revenue of projectors & screens reached US$ 3768K (average total sales US$ 1.742K), representing 7% contribution to the total revenue and total profit reached US$ 2,357K representing 7% to the total profit in 2016-2020, however the profit margin reached 63% (average margin 58%) which considered as the highest profit margin among others. The reason behind higher profit margin is because projectors & screens' volume sales were driven by the price segment above US$ 800 which contributes 28% to its total volume sales, which generated 74% total profit. Since the large portion of revenue is coming from above US$ 800 price segment suggests that the mix may pulling up the overall margin up.
 
-![Desktops](https://github.com/handokosugiarto/Private/blob/477b1fa6c6f3ed624bd8a43ad94c955372811b48/Global%20Retailers/Desktops%20vs%20Projectors.png)
+![Desktops](https://github.com/handokosugiarto/Private/blob/a367ebd0f76f1c45a3412dcb7391eed4f597862f/Global%20Retailers/Desktopsvsprojectors.png)
 - Laptops subcategory showed higher sales but lower profit compare to movieDVD. Laptops contributed US$ 3,165K while movieDVD contributed US$ 3,131K, both representing 6% to the revenue in 2016-2020, while total profit for laptops reached US$ 1,794K (5%) and movieDVD reached US$ 1,909K (6%). Despite generating substantially lower profit per unit (US$ 66 vs US$ 363), movieDVD generated higher total profit because its sales volume was approximately six times greater than laptops (28K vs 4.9K units). In contrast, laptops generated substantially higher profit per unit but their sales volume limited their overall profit contribution. These findings indicate that movieDVD is primarily volume-driven, while laptops is more value-per-unit driven.
 
 ![Laptops](https://github.com/handokosugiarto/Private/blob/477b1fa6c6f3ed624bd8a43ad94c955372811b48/Global%20Retailers/Laptops%20Vs%20MovieDVD.png)
@@ -79,6 +79,15 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 ![Monitors](https://github.com/handokosugiarto/Private/blob/786cc141864d61a1bfe85f9c9d85af987da3dff3/Global%20Retailers/High%20Nargin%2C%20Low%20Revenue.png)
 
 -  As mentioned above, Desktops subcategory contributed the highest revenue to Hero Electronics however its profit margin is considered low due to lower that average margin in the period of 2016 to 2020. Since desktops considered as low margin, low profit, and low revenue, performance improvement is the best strategy to apply.
+
+![Desktops](https://github.com/handokosugiarto/Private/blob/a367ebd0f76f1c45a3412dcb7391eed4f597862f/Global%20Retailers/Low%20Margin%2Chigh%20revenue.png)
+
+- Below are the list of subcategories with Low Margin, Low Profit, and Low Revenue performance. These subcategories needed to be review its performance whether to improve ,product mix replacement, or discontinue. For instance Fans and boxed games have relatively very low sales from 2016 to 2020 which will impact profitability if remained in inventory too long (investigate more detail on the products that have weak performance).
+ 
+![Low Margin](https://github.com/handokosugiarto/Private/blob/a367ebd0f76f1c45a3412dcb7391eed4f597862f/Global%20Retailers/Low%20Marginlowrevenue.png)
+
+ ## Product Performance
+
 
 
 
