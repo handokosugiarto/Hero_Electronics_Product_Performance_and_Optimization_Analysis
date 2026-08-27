@@ -90,7 +90,7 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 
  ## Product Performance
 
- - **WWI Desktop PC2.33 X2330 Black is the best seller product under desktops subcategory.** 
+ - **WWI Desktop PC2.33 X2330 Black is the best seller product under desktops subcategory.** This product reached US$505K in total revenue from 2016-2020, total profit reached US$ 338K, and profit margin reached 67%. Since all of indicators showed above average, this product considered as high margin, high profit and high revenue which suggests that product and sales team should focus on supporting this product while exploring more opportunities to expand its revenue contribution.
 
 
 
