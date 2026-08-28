@@ -92,7 +92,7 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 
  - **WWI Desktop PC2.33 X2330 Black is the best seller product under desktops subcategory.** This product reached US$505K in total revenue from 2016-2020, total profit reached US$ 338K, and profit margin reached 67%. Since all of indicators showed above average, this product considered as high margin, high profit and high revenue which suggests that product and sales team should focus on supporting this product while exploring more opportunities to expand its revenue contribution.
  - **Desktops subcategory dominates top 10 revenue contributors to Hero Electronics.** 8 out of 10 products that contributes approximately 7% to 8% to total revenue of Hero Electronics, are generated from desktops subcategory. All of those products are considered as premium product since its amount is higher than average of each subcategory.
- - Adventure Works Desktop PC2 30 MD230 White is a product that categorized as low margin, high profit, and high revenue. The product revenue reached US$ 312K ( average revenue US$ 22K), profit reached US$ 168K (average profit US$ 13K), and profit margin reached US$ 54% (average 55%). 
+ - Adventure Works Desktop PC2 30 MD230 White is a product that categorized as low margin, high profit, and high revenue. The product revenue reached US$ 312K ( average revenue US$ 22K), profit reached US$ 168K (average profit US$ 13K), and profit margin reached US$ 54% (average 55%). Since the revenue and profit indicators show above average and profit margin below average, this product is categorized as low margin, high profit, and high revenue.
  
 
 
