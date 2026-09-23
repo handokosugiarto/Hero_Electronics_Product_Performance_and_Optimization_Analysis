@@ -100,7 +100,9 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 
 Based on the uncovered insights, the following recommendation have been provided:
 
-- Since price segment less than US$400 drives volume sales and price segment above US$400 drives the revenue, so maintaining the volume sales from price segment less than US$400 is crucial while selectively expanding higher price products that demonstrate strong profitability and consumer demand. Bundling and cross selling within the same price segment to increase revenue without increasing the price is one way to protect volume sales from price segment less than US$ 400, while the use upselling at the point of purchase to customers considering a less than US$ 400 products can be presented with higher priced alternative with clearly differentiate features.  
+- Since price segment less than US$400 drives volume sales and price segment above US$400 drives the revenue, so maintaining the volume sales from price segment less than US$400 is crucial while selectively expanding higher price products that demonstrate strong profitability and consumer demand. Bundling and cross selling within the same price segment to increase revenue without increasing the price is one way to protect volume sales from price segment less than US$ 400, while the use upselling at the point of purchase to customers considering a less than US$ 400 products can be presented with higher priced alternative with clearly differentiate features.
+- Covid19 pandemic has affecting company performance as a whole. To minimize its impact, protecting products that has strong demand and profitability are very crucial. Protect inventory availability and maintain competitive pricing are crucial in securing demand and profitability.
+- High revenue, high profit, and high margin products. Products that categorize as high revenue, high profit, and high margin need to be invested by the company.
  
 
 
