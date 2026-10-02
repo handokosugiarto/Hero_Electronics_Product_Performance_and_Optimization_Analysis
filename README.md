@@ -18,7 +18,8 @@ Between 2016 - 2019, Hero Electronics experienced strong business growth with an
 Other metrics are also needed to support the success of our project such as total sales, total quantity, average selling price, and profit margin. By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
 
 
-Data Cleaning & Standardization here
+Data Cleaning & Standardization [here](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/68b52aadf16c372dbfd988e48a137d66eb4ddf71/Data_Cleaning_Customers.sql)
+
 SQL queries analysis [here](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/a0ba0f1c47244aa2914f108e903faff9dabfe6b8/SQL_Analysis.sql)
 
 
