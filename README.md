@@ -101,6 +101,8 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
  - **High margin, low revenue, and low profit.** Contoso Screen 125in M250 Black (projector & Screens subcategory) is one of the products that categorized as high margin, low revenue and low profit product. it reached US$ 19K sales revenue while the average was US$ 22K from 2016 to 2020, total profit reached US$ 12.8K while the average profit reached US$ 12.9K,  and the margin reached 67% while its average 55% at the same period. Since all indicators are showing below average except the margin, this product can be categorized as high margin , low profit, and low revenue. Moreover the high margin is resulted from the product profit per unit reached US$ 307 while the average reached US$ 165.
  - **Low margin, low revenue, and low profit.** Products that categorized as low margin, low revenue, and low profit should be under reviewed in order to optimize product performance. Product Name Fabricam Laptop 12W M2080 Silver reached US$22,344 in revenue from 2016 to 2020, with average revenue US$22,374, total profit reached US$10,952, with average profit US$13,107, and profit margin reached 49%, with its average profit margin 55% at the same period. Those indicators above show that the product categorized as low margin, low revenue, and low profit due to its amount were below average. Review is needed for this product to maintain overall product performance of Hero electronic' portfolio.
 
+![Product Low Margin, Low Revenue](https://github.com/handokosugiarto/Private/blob/4266f2b80124b4bd08acfdfe8063f02f251f03bd/Global%20Retailers/Low%20Revenue%20Low%20Margin.png)
+
 ## Recommendation
 
 Based on the uncovered insights, the following recommendation have been provided:
