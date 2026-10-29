@@ -11,11 +11,20 @@ Between 2016 - 2019, Hero Electronics experienced strong business growth with an
 
 **Business question:** As a part of the data team, I analyze sales performance from 2016 to 2020 to identify high performing (high margin, and high growth) to low performing (low margin & Low Sales) product categories. The objective is to help Product Managers optimize the product portfolio, improve profitability, and support strategic product investment decisions.
 
+**Analytical Objective:** the objective is to identify the key drivers of product performance, distinguish products that generate substantial profit from those that offer opportunities for improvement and recommend actions to support profitable growth.
+
 ## North Star Metric
 
 **Total Profit** is the key metric in this project to answer how profitable our product portfolios are. By measuring this key metrics, I will be able to help the product team to create strategic decision making whether to expand, improve, invest, or review their product portfolios. As the result of their decision making, we would expect company's profit to go up.
 
-Other metrics are also needed to support the success of our project such as total sales, total quantity, average selling price, and profit margin. By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
+Other metrics are also needed to support the success of our project. Those metrics are:
+
+- Profit Margin: evaluates how efficiently product generate profit relative to revenue.
+- Total Revenue: measures financial contribution of each product or subcategory. 
+- Total Quantity or unit sold: measures sales volume and helps identify products that drive consumer demand. 
+- Average Selling Price: helps assess changes in pricing and product mix.
+
+By combining these metrics, we would be able to create powerful fact based data to support product team on their mission to optimize performance the company's product portfolio.
 
 
 SQL Data Cleaning & Standardization [here](https://github.com/handokosugiarto/Hero_Electronics_Product_Performance_and_Optimization_Analysis/blob/68b52aadf16c372dbfd988e48a137d66eb4ddf71/Data_Cleaning_Customers.sql)
