@@ -51,7 +51,7 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 
 **Revenue Drivers:** The main revenue driver is desktop subcategory with its revenue ranging from US$ 725K to US$ 1,777K with 20% contribution from the total revenue in 2019. 
 
-**Profitability Insights:** Desktop subcategory drives the profitability with US$ 5,629K or 17% from total profit from 2016 to 2021. Although Desktop subcategory has higher total profit but the profit ratio is being driven by projector and screen subcategory with total margin 63% while desktop is about 57%.
+**Profitability Insights:** Desktop subcategory drives the profitability with US$ 5,629K or 17% from total profit from 2016 to 2020. Although Desktop subcategory has higher total profit but the profit ratio is being driven by projector and screen subcategory with total margin 63% while desktop is about 57%.
 
 **Portfolio Opportunities:** Products that have growth potential are products which are considered as high margin & high sales such as projector & screen, digital camera, televisions, camcorders, movie DVD, and Refrigerator. These product subcategories represent the strongest product subcategories to invest or grow while low margin & low sales such as air conditioners, home theater system, lamps, car video, recording pen, camera, camcorder, and VCD/DVD. 
 
