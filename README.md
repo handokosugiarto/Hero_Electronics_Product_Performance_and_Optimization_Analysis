@@ -90,7 +90,7 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 
 ![Monitors](https://github.com/handokosugiarto/Private/blob/786cc141864d61a1bfe85f9c9d85af987da3dff3/Global%20Retailers/High%20Nargin%2C%20Low%20Revenue.png)
 
--  As mentioned above, Desktops subcategory contributed the highest revenue to Hero Electronics however its profit margin is considered low due to lower that average margin in the period of 2016 to 2020. Since desktops considered as low margin, low profit, and low revenue, performance improvement is the best strategy to apply.
+-  As mentioned above, Desktops subcategory contributed the highest revenue to Hero Electronics however its profit margin is considered low due to lower that average margin in the period of 2016 to 2020. Since desktops considered as low margin, high profit, and high revenue, performance improvement is the best strategy to apply.
 
 ![Desktops](https://github.com/handokosugiarto/Private/blob/a367ebd0f76f1c45a3412dcb7391eed4f597862f/Global%20Retailers/Low%20Margin%2Chigh%20revenue.png)
 
