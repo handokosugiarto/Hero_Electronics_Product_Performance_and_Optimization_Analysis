@@ -47,7 +47,7 @@ Interactive Tableau's dashboard can be explored [here](https://public.tableau.co
 
 ### Overview of Findings
 
-**Business Growth:** Hero Electronics has done a very amazing performance over the year from 2016 to 2020. The business had been showing a positive growth from 2016 (US$ 6,947K) to 2019 (US$18,265K) with CAGR of 38% until the Covid19 pandemic happened in 2020. The revenue declined significantly to US$ 9295K in 2020 which was about 49% dropped from 2019. 
+**Business Growth:** Hero Electronics has done a very amazing performance over the year from 2016 to 2020. The business had been showing a positive revenue growth from 2016 (US$ 6,947K) to 2019 (US$18,265K) with CAGR of 38% until the Covid19 pandemic happened in 2020. The revenue declined significantly to US$ 9295K in 2020 which was about 49% dropped from 2019. 
 
 **Revenue Drivers:** The main revenue driver is desktop subcategory with its revenue ranging from US$ 725K to US$ 1,777K with 20% contribution from the total revenue in 2019. 
 
